@@ -166,6 +166,14 @@
 		BC879B9C1CBF044700F9177B /* VehiclesData.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = VehiclesData.txt; sourceTree = "<group>"; };
 		BC879B9D1CBF044700F9177B /* VehicleStateData.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = VehicleStateData.txt; sourceTree = "<group>"; };
 		BC879B9E1CBF044700F9177B /* VinData.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = VinData.txt; sourceTree = "<group>"; };
+		BC8BFD331CC6E78100728992 /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = "../../../../../../../Library/Developer/Xcode/DerivedData/MojioSDK-gvypzvytkovxlgdzelyutysxiepk/Build/Products/Debug-iphonesimulator/Alamofire.framework"; sourceTree = "<group>"; };
+		BC8BFD341CC6E78100728992 /* KeychainSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = KeychainSwift.framework; path = "../../../../../../../Library/Developer/Xcode/DerivedData/MojioSDK-gvypzvytkovxlgdzelyutysxiepk/Build/Products/Debug-iphonesimulator/KeychainSwift.framework"; sourceTree = "<group>"; };
+		BC8BFD351CC6E78100728992 /* ObjectMapper.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ObjectMapper.framework; path = "../../../../../../../Library/Developer/Xcode/DerivedData/MojioSDK-gvypzvytkovxlgdzelyutysxiepk/Build/Products/Debug-iphonesimulator/ObjectMapper.framework"; sourceTree = "<group>"; };
+		BC8BFD361CC6E78100728992 /* OHHTTPStubs.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OHHTTPStubs.framework; path = "../../../../../../../Library/Developer/Xcode/DerivedData/MojioSDK-gvypzvytkovxlgdzelyutysxiepk/Build/Products/Debug-iphonesimulator/OHHTTPStubs.framework"; sourceTree = "<group>"; };
+		BC8BFD371CC6E78100728992 /* Pods_MojioSDKTests.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Pods_MojioSDKTests.framework; path = "../../../../../../../Library/Developer/Xcode/DerivedData/MojioSDK-gvypzvytkovxlgdzelyutysxiepk/Build/Products/Debug-iphonesimulator/Pods_MojioSDKTests.framework"; sourceTree = "<group>"; };
+		BC8BFD381CC6E78100728992 /* Realm.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Realm.framework; path = "../../../../../../../Library/Developer/Xcode/DerivedData/MojioSDK-gvypzvytkovxlgdzelyutysxiepk/Build/Products/Debug-iphonesimulator/Realm.framework"; sourceTree = "<group>"; };
+		BC8BFD391CC6E78100728992 /* RealmSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RealmSwift.framework; path = "../../../../../../../Library/Developer/Xcode/DerivedData/MojioSDK-gvypzvytkovxlgdzelyutysxiepk/Build/Products/Debug-iphonesimulator/RealmSwift.framework"; sourceTree = "<group>"; };
+		BC8BFD3A1CC6E78100728992 /* SwiftyJSON.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftyJSON.framework; path = "../../../../../../../Library/Developer/Xcode/DerivedData/MojioSDK-gvypzvytkovxlgdzelyutysxiepk/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework"; sourceTree = "<group>"; };
 		BCC2EFB11CBED4E6004D2759 /* MojioSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MojioSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCC2EFB31CBED4E6004D2759 /* MojioSDK.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MojioSDK.h; sourceTree = "<group>"; };
 		BCC2EFB51CBED4E6004D2759 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -242,6 +250,14 @@
 		BB1AA5E51CD64A40D8A0544C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				BC8BFD331CC6E78100728992 /* Alamofire.framework */,
+				BC8BFD341CC6E78100728992 /* KeychainSwift.framework */,
+				BC8BFD351CC6E78100728992 /* ObjectMapper.framework */,
+				BC8BFD361CC6E78100728992 /* OHHTTPStubs.framework */,
+				BC8BFD371CC6E78100728992 /* Pods_MojioSDKTests.framework */,
+				BC8BFD381CC6E78100728992 /* Realm.framework */,
+				BC8BFD391CC6E78100728992 /* RealmSwift.framework */,
+				BC8BFD3A1CC6E78100728992 /* SwiftyJSON.framework */,
 				B8170DD29A15DE7C48008C85 /* Pods_MojioSDK.framework */,
 				C865634E9F814C1F91FA8B03 /* Pods_MojioSDKTests.framework */,
 			);

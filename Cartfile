@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire"
+github "marketplacer/keychain-swift"
+github "Hearst-DD/ObjectMapper"
+github "AliSoftware/OHHTTPStubs"
+github "realm/realm-cocoa"
+github "SwiftyJSON/SwiftyJSON"
